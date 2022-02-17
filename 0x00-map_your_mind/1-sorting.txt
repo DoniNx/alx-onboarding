@@ -1,0 +1,7 @@
+START
+let num1 = recive first number from the user
+let num2 = recive second number from the user
+let num3 = recive fourth number from the user
+sort the three numbers 
+return the sorted order
+END

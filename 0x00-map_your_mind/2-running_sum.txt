@@ -1,0 +1,10 @@
+START
+initialize variable summation
+LOOP
+	recieve variable num
+	IF num is >= 0 
+		add num to summation
+	ELSE 
+		print summation
+		End the loop
+END

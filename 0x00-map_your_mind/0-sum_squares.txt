@@ -1,0 +1,10 @@
+START
+let num1
+let num2
+let Result
+Take the first number from the user and set to num1
+Take the second number from the user and set to num2
+set Result to (num1 multiplied to itself) PLUS (num2 multiplied to itself)
+return Result
+END
+
